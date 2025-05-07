@@ -56,4 +56,4 @@ class MpesaCallback(models.Model):
     class Meta:
         ordering = ['-created_at']
 
-# Create your models here.
+
